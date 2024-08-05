@@ -1,0 +1,1 @@
+# Qualcomm_Internship_2024_WEEK2_TASKS
