@@ -1,1 +1,3 @@
-# Week 1: Python Basics and Libraries for Data Analysis and Visualization
+### Week 2 Summary
+
+This week focused on practical data analysis and machine learning tasks. We started by preprocessing a Customer Call List dataset. For the Titanic dataset, we explored the data, created and transformed features, handled missing values, and evaluated logistic regression models with both original and engineered features. We also reviewed and applied various machine learning algorithms from a video tutorial to the Titanic dataset. Finally, we selected, cleaned, and analyzed a new dataset, applying all the discussed algorithms to enhance our understanding of data preprocessing and model evaluation.
